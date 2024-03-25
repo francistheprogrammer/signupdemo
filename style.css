@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&family=Madimi+One&display=swap');
+
+body {
+    background-color: black;
+}
+
+.sign-up-form {
+    color: #ffffff;
+    font-family: "Comfortaa", sans-serif;
+    margin: 10% 35%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+input {
+    width: 100%;
+}
+
+input {
+    font-size: .8rem;
+    padding: .5rem ;
+}
